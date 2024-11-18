@@ -1,0 +1,11 @@
+mod = [
+	"Versus Tweaks"
+]
+
+package = [
+	"resource_packages/Versus Tweaks/Versus Tweaks"
+]
+
+lua = [
+	"scripts/mods/Versus Tweaks/*"
+]
