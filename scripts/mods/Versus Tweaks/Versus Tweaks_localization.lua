@@ -1,5 +1,5 @@
 return {
 	mod_description = {
-		en = "Versus Tweaks description",
+		en = "Rebalances to Versus.",
 	},
 }
